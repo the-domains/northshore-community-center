@@ -1,28 +1,31 @@
-name: Northshore Community Center
-favicon: null
-layout_spectrum: 0.7924325622152537
-typography_spectrum: 0.45845426456071436
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.16546037019138216
+typography_spectrum: 0.31368402071647566
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.07723555737175047
-  lightness: 0.4880402320995927
-  saturation: 0.330324379960075
-  rhythmicContrast: 0.844722401117906
-purpose: []
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+  brandStrength: 0.012950323789408153
+  lightness: 0.823204392790241
+  saturation: 0.9227607406148374
+  rhythmicContrast: 0.2862472701492249
+name: Northshore Community Center
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/360faa05-6ab2-4925-8bfb-0d211a2614ba.png
+cta: {}
+analytics: {}
+opengraph: {}
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/LucerneNCC/'
+    label: Like us on Facebook
+title: Northshore Community Center
+navigation:
+  - name: Find us on Facebook
+    url: 'https://www.facebook.com/LucerneNCC/'
+    type: external
+content: []
+description: The Heart of the North Shore
+github: true
