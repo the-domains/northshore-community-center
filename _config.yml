@@ -26,7 +26,32 @@ navigation:
   - name: Find us on Facebook
     url: 'https://www.facebook.com/LucerneNCC/'
     type: external
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e26c51d5-b3b4-40fe-9dfa-cf778940dd10.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/e26c51d5-b3b4-40fe-9dfa-cf778940dd10.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: The Heart of the North Shore
 github: true
 url: 'http://ncclucerne.org/'
