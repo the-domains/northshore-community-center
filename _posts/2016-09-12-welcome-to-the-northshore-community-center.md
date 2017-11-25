@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-25T02:45:41.087Z'
+datePublished: '2017-11-25T03:31:16.655Z'
 sourcePath: _posts/2016-09-12-welcome-to-the-northshore-community-center.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-11-25T02:45:40.425Z'
+dateModified: '2017-11-25T03:31:15.519Z'
 title: Welcome to the Lucerne Alpine Senior Center
 publisher: {}
 description: >-
