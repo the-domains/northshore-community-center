@@ -21,6 +21,9 @@ purpose:
   - type: external
     url: 'https://www.facebook.com/LucerneNCC/'
     label: Like us on Facebook
+  - type: external
+    url: 'https://www.facebook.com/donate/966415273498778/'
+    label: Donate to our cause
 title: Lucerne Alpine Senior Center
 navigation:
   - name: Find us on Facebook
