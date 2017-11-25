@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-25T02:31:20.886Z'
+datePublished: '2017-11-25T02:44:38.014Z'
 sourcePath: _posts/2016-09-12-welcome-to-the-northshore-community-center.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-11-25T02:31:20.325Z'
+dateModified: '2017-11-25T02:44:37.467Z'
 title: Welcome to the Lucerne Alpine Senior Center
 publisher: {}
 description: >-
@@ -19,8 +19,6 @@ _type: Article
 ---
 # Welcome to the Lucerne Alpine Senior Center
 ![Originally the 'Lucerne Elementary School', this building has become a staple in the community for accessing local information and resources, serving as a hub for special events and social gatherings, and working hand-in-hand with local organizations and individuals to enhance and offer more to the community.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e26c51d5-b3b4-40fe-9dfa-cf778940dd10.jpg)
-
-# Serving Clear Lake's North Shore
 
 ## "The Heart of the North Shore"
 
