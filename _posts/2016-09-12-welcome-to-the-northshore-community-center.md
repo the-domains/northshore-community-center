@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-11-25T02:44:38.014Z'
+datePublished: '2017-11-25T02:45:41.087Z'
 sourcePath: _posts/2016-09-12-welcome-to-the-northshore-community-center.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-11-25T02:44:37.467Z'
+dateModified: '2017-11-25T02:45:40.425Z'
 title: Welcome to the Lucerne Alpine Senior Center
 publisher: {}
 description: >-
@@ -27,3 +27,5 @@ The Lucerne Alpine Senior Center provides entertaining events, helpful and infor
 We aim to embody the spirit of community: in bringing people together, sharing common bonds, and helping one another. We seek to create positive change in the world around us, through ourselves and through each other.
 
 Welcome to the Lucerne Alpine Senior Center.
+
+<iframe src="https://the-grid.github.io/ed-location/?latitude=39.091082&amp;longitude=-122.792644&amp;zoom=16&amp;address=3985%20Country%20Club%20Dr%2C%20Lucerne%2C%20California%2095458%2C%20United%20States" style=""></iframe>
