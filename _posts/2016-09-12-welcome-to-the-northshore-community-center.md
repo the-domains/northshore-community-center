@@ -1,11 +1,11 @@
 ---
-datePublished: '2017-12-05T02:44:50.259Z'
+datePublished: '2017-12-05T02:49:08.311Z'
 sourcePath: _posts/2016-09-12-welcome-to-the-northshore-community-center.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2017-12-05T02:44:49.807Z'
+dateModified: '2017-12-05T02:49:07.434Z'
 title: Welcome to the Lucerne Alpine Senior Center
 publisher: {}
 description: >-
@@ -17,7 +17,7 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-## - [Home][0] - Food - Events - Programs & Services -  
+## - [Home][0] - [Food][1] - Events - Programs & Services -  
 - Volunteer - Links -
 
 # Welcome to the Lucerne Alpine Senior Center
@@ -36,3 +36,4 @@ Welcome to the Lucerne Alpine Senior Center.
 
 
 [0]: http://www.lucernealpineseniorcenter.org/ "LASC Home Page"
+[1]: http://lucernealpineseniorcenter.org/food "Food Services"
