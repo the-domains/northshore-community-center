@@ -1,4 +1,3 @@
-layout_spectrum: 0.16546037019138216
 typography_spectrum: 0.31368402071647566
 color:
   brandColors:
@@ -11,24 +10,23 @@ color:
   lightness: 0.823204392790241
   saturation: 0.9227607406148374
   rhythmicContrast: 0.2862472701492249
-name: Lucerne Alpine Senior Center
+github: true
+opengraph: {}
+layout_spectrum: 0.16546037019138216
+analytics: {}
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/360faa05-6ab2-4925-8bfb-0d211a2614ba.png
+name: Lucerne Alpine Senior Center
+url: 'http://lucernealpineseniorcenter.org/'
 cta: {}
-analytics: {}
-opengraph: {}
-purpose:
-  - type: external
-    url: 'https://www.facebook.com/LucerneNCC/'
-    label: Like us on Facebook
-  - type: external
-    url: 'https://www.facebook.com/donate/966415273498778/'
-    label: Donate to our cause
-title: Lucerne Alpine Senior Center
 navigation:
   - name: Find us on Facebook
     url: 'https://www.facebook.com/LucerneNCC/'
     type: external
+  - name: Food
+    id: 0c26d211-8ddd-4a32-919d-00ef7cc64eb4
+    type: content
+title: Lucerne Alpine Senior Center
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -38,22 +36,27 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/e26c51d5-b3b4-40fe-9dfa-cf778940dd10.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: The Heart of the North Shore
-github: true
-url: 'http://lucernealpineseniorcenter.org/'
+purpose:
+  - type: external
+    url: 'https://www.facebook.com/LucerneNCC/'
+    label: Like us on Facebook
+  - type: external
+    url: 'https://www.facebook.com/donate/966415273498778/'
+    label: Donate to our cause
