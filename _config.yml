@@ -26,6 +26,9 @@ navigation:
   - name: Food
     id: 0c26d211-8ddd-4a32-919d-00ef7cc64eb4
     type: content
+  - name: Events
+    id: a854882a-5713-458b-bba4-53ffddeb7ae1
+    type: content
 title: Lucerne Alpine Senior Center
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
