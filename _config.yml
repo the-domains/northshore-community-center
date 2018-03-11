@@ -21,7 +21,7 @@ url: 'http://lucernealpineseniorcenter.org/'
 cta: {}
 navigation:
   - name: Find us on Facebook
-    url: 'https://www.facebook.com/LucerneNCC/'
+    url: 'https://www.facebook.com/LucerneSeniors/'
     type: external
   - name: Food
     id: 0c26d211-8ddd-4a32-919d-00ef7cc64eb4
